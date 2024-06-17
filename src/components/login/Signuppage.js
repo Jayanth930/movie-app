@@ -11,8 +11,9 @@ const Signuppage = ()=>{
     const navigator = useNavigate()
     async function handleSubmit(e){
       e.preventDefault()
+      console.log(process.env.REACT_APP_BACKEND_LINK)
       try {
-        const result = await axios.post("http://localhost:3500/signup",{
+        const result = await axios.post(`${process.env.REACT_APP_BACKEND_LINK}/signup`,{
             username , email , password
         })
         setNavigate(true)
