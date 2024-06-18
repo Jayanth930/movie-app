@@ -83,7 +83,7 @@ Your Name - Jayanth kambhampati - `kambhampatijayanth24@gmail.com`
 Project Repo Link Link: [(https://github.com/Jayanth930/movie-app.git)](https://github.com/Jayanth930/movie-app.git)
 
 
-**U can View Live Frontend Static-service Here(Use This If Frontend service taking more time to erespond)** -  [Movie-App-Frontend](https://movie-app-p6q8.onrender.com) 
+**U can View Live Frontend Static-service Here(Use This If Frontend service taking more time to respond)** -  [Movie-App-Frontend-Static-Site](https://movie-app-p6q8.onrender.com) 
   
 **U can View Live Frontend Service Here** -  [Movie-App-Frontend](https://movie-app-frontend-4nts.onrender.com) 
 
