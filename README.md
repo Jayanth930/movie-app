@@ -83,7 +83,7 @@ Your Name - Jayanth kambhampati - `kambhampatijayanth24@gmail.com`
 Project Repo Link Link: [(https://github.com/Jayanth930/movie-app.git)](https://github.com/Jayanth930/movie-app.git)
 
   
-**U can View Live Frontend Service Here** -  [Movie-App-Frontend](https://movie-app-two-dun.vercel.app/)
+**U can View Live Frontend Service Here** -  [Movie-App-Frontend](https://movie-app-two-dun.vercel.app/home)
 
 
 **U can View Live Backend  Here(Click this link to spin the backend container)** -  [Movie-App-Backend](https://movie-app-backemd.onrender.com)
